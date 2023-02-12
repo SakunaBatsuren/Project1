@@ -72,3 +72,7 @@ while running:
     time.sleep(0.2)
 
     display()
+
+
+
+#baslalalalalalal
